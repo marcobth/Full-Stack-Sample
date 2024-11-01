@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Frontend.iml" filepath="$PROJECT_DIR$/Frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Full-Stack-Sample.iml" filepath="$PROJECT_DIR$/.idea/Full-Stack-Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>
 </project>
